@@ -5,4 +5,3 @@
 * You must have python install in your machine.
 * Create a Python Virutal Environment & Activate Virutal Environment.
 * Download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link)
-* You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
